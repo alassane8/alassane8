@@ -1,6 +1,6 @@
 <div align="center">
 
-#  \(￣︶￣*\)) Hey, I'm Alassane
+#(●'◡'●) Hey, I'm Alassane
 
 **`Simulation & GNC Engineer — Python / C++`**
 
