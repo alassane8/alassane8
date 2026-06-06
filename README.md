@@ -2,7 +2,7 @@
 
 # (●'◡'●) Hey, I'm Alassane
 
-**`Simulation & GNC Engineer — Python / C++`**
+**`Software & Systems Development Engineer — Python / C++`**
 
 </div>
 
